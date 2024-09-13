@@ -5,19 +5,18 @@
   </a>
 </p>
 
-## 🔸 Welcome to my corner of GitHub!
+## 🔸 Welcome to my corner!
 
 <div align="start">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=ff7700&Start=true&vStart=true&width=700&lines=UI%2FUX+Designer+%7C+Android+App+Developer;Merging+Creativity+with+Functionality;Transforming+Ideas+into+Impactful+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=ff7700&Start=true&vStart=true&width=700&lines=UI%2FUX+Designer+%7C+Android+App+Developer;Merging+Creativity+with+Functionality;Transforming+Ideas+into+Impactful+Solutions" alt="Typing SVG" />
 </div>
 
 
 
 ## 🔸 About Me
 
-I'm a passionate UI/UX designer and Android app developer, dedicated to creating beautiful, intuitive, and functional digital experiences. With a keen eye for design and a love for coding, I bridge the gap between aesthetics and functionality.
+Hi, I’m Bharath Dhakar, an Android developer and UI/UX designer. I build , user-friendly apps that solve real problems. I focus on creating smooth, efficient solutions that enhance everyday experiences.
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## 🔸 What I do
 
