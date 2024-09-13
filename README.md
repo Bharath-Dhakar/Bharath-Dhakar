@@ -5,10 +5,10 @@
   </a>
 </p>
 
-#👋 Welcome to my corner of GitHub!"
+## Welcome to my corner of GitHub!
 
 <div align="start">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=ff7700&center=true&vCenter=true&width=600&lines=UI%2FUX+Designer+%7C+Android+Developer;Turning+Ideas+into+Experiences;Crafting+Digital+Magic" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=ff7700&Start=true&vStart=true&width=700&lines=UI%2FUX+Designer+%7C+Android+App+Developer;Merging+Creativity+with+Functionality;Transforming+Ideas+into+Impactful+Solutions" alt="Typing SVG" />
 </div>
 
 
