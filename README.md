@@ -7,7 +7,7 @@
 
 ## 🔸 Welcome to my corner!
 
- <div align="start">
+- <div align="start">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=ff7700&Start=true&vStart=true&width=700&lines=UI%2FUX+Designer+%7C+Android+App+Developer;Merging+Creativity+with+Functionality;" alt="Typing SVG" />
 </div>
 
@@ -50,7 +50,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/yourusername?tab=repositories">
+  <a href="https://github.com/Bharath-Dhakar?tab=repositories">
     <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
   </a>
 </p>
