@@ -1,15 +1,17 @@
-#👋 Welcome to my corner of GitHub!"
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=6026B9&center=true&vCenter=true&width=600&lines=UI%2FUX+Designer+%7C+Android+Developer;Turning+Ideas+into+Experiences;Crafting+Digital+Magic" alt="Typing SVG" />
-</div>
-
-<p align="center">
+<p align="start">
   <img src="https://komarev.com/ghpvc/?username=Bharath-Dhakar&label=Profile%20views&color=6026B9&style=flat" alt="Profile views" />
   <a href="https://github.com/yourusername?tab=followers">
     <img src="https://img.shields.io/github/followers/Bharath-Dhakar?label=Followers&style=social" alt="GitHub followers">
   </a>
 </p>
+
+#👋 Welcome to my corner of GitHub!"
+
+<div align="start">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=ff7700&center=true&vCenter=true&width=600&lines=UI%2FUX+Designer+%7C+Android+Developer;Turning+Ideas+into+Experiences;Crafting+Digital+Magic" alt="Typing SVG" />
+</div>
+
+
 
 ## 🚀 About Me
 
