@@ -5,28 +5,28 @@
   </a>
 </p>
 
-## Welcome to my corner of GitHub!
+## 🔸 Welcome to my corner of GitHub!
 
 <div align="start">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=ff7700&Start=true&vStart=true&width=700&lines=UI%2FUX+Designer+%7C+Android+App+Developer;Merging+Creativity+with+Functionality;Transforming+Ideas+into+Impactful+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=ff7700&Start=true&vStart=true&width=700&lines=UI%2FUX+Designer+%7C+Android+App+Developer;Merging+Creativity+with+Functionality;Transforming+Ideas+into+Impactful+Solutions" alt="Typing SVG" />
 </div>
 
 
 
-## 🚀 About Me
+## 🔸 About Me
 
 I'm a passionate UI/UX designer and Android app developer, dedicated to creating beautiful, intuitive, and functional digital experiences. With a keen eye for design and a love for coding, I bridge the gap between aesthetics and functionality.
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-### 💼 What I do
+## 🔸 What I do
 
 - 🎨 Design user-centric interfaces
 - 📱 Develop Android applications
 - 🔍 Conduct user research and usability testing
 - 🛠️ Prototype and iterate on designs
 
-## 🛠️ Skills & Tools
+## 🔸 Skills & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
@@ -39,7 +39,7 @@ I'm a passionate UI/UX designer and Android app developer, dedicated to creating
   <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD" />
 </p>
 
-## 🌟 Featured Projects
+## 🔸 Featured Projects
 
 <div align="center">
   <a href="https://github.com/yourusername/project1">
@@ -56,7 +56,7 @@ I'm a passionate UI/UX designer and Android app developer, dedicated to creating
   </a>
 </p>
 
-## 📊 GitHub Stats
+## 🔸 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide_border=true&title_color=F85D7F&icon_color=F8D866&bg_color=1F222E&text_color=FFFFFF" alt="GitHub Stats" height="165">
@@ -67,13 +67,13 @@ I'm a passionate UI/UX designer and Android app developer, dedicated to creating
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=react-dark&bg_color=1F222E&hide_border=true" width="100%"/>
 </p>
 
-## 🏆 GitHub Trophies
+## 🔸 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=dracula&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
-## 🤝 Let's Connect!
+## 🔸 Let's Connect!
 
 <p align="center">
   <a href="https://linkedin.com/in/yourusername" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
