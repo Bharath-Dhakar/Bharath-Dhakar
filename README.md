@@ -7,7 +7,7 @@
 
 ## 🔸 Welcome to my corner!
 
-### <div align="start">
+<div align="start">
   <img src="https://readme-typing-svg.herokuapp.com? 
   font=Fira+Code&size=28&pause=1000&color=ff7700&Start=true&vStart=true&width=700&lines=UI%2FUX+Designer+%7C+Android+App+Developer;Merging+Creativity+with+Functionality;" alt="Typing SVG" />
  </div>
