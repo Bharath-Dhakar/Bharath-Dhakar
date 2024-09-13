@@ -7,9 +7,10 @@
 
 ## 🔸 Welcome to my corner!
 
-## <div align="start">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=ff7700&Start=true&vStart=true&width=700&lines=UI%2FUX+Designer+%7C+Android+App+Developer;Merging+Creativity+with+Functionality;" alt="Typing SVG" />
-</div>
+### <div align="start">
+  <img src="https://readme-typing-svg.herokuapp.com? 
+  font=Fira+Code&size=28&pause=1000&color=ff7700&Start=true&vStart=true&width=700&lines=UI%2FUX+Designer+%7C+Android+App+Developer;Merging+Creativity+with+Functionality;" alt="Typing SVG" />
+ </div>
 
 
 
@@ -58,13 +59,11 @@
 ## 🔸 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide_border=true&title_color=F85D7F&icon_color=F8D866&bg_color=1F222E&text_color=FFFFFF" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=gotham&hide_border=true&background=1F222E&stroke=F85D7F&ring=F8D866&fire=F8D866&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bharath-Dhakar&show_icons=true&count_private=true&hide_border=true&title_color=1aff00&icon_color=1aff00&bg_color=1F222E&text_color=FFFFFF" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharath-Dhakar&theme=gotham&hide_border=true&background=1F222E&stroke=1aff00&ring=1aff00&fire=1aff00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" height="165">
 </div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=react-dark&bg_color=1F222E&hide_border=true" width="100%"/>
-</p>
+
 
 ## 🔸 GitHub Trophies
 
