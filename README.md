@@ -8,22 +8,22 @@
 ## 🔸 Welcome to my corner!
 
 <div align="start">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=ff7700&Start=true&vStart=true&width=700&lines=UI%2FUX+Designer+%7C+Android+App+Developer;Merging+Creativity+with+Functionality;Transforming+Ideas+into+Impactful+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=ff7700&Start=true&vStart=true&width=700&lines=UI%2FUX+Designer+%7C+Android+App+Developer;Merging+Creativity+with+Functionality;Transforming+Ideas+into+Impactful+Solutions" alt="Typing SVG" />
 </div>
 
 
 
 ## 🔸 About Me
 
-Hi, I’m Bharath Dhakar, an Android developer and UI/UX designer. I build , user-friendly apps that solve real problems. I focus on creating smooth, efficient solutions that enhance everyday experiences.
+- Hi, I’m Bharath Dhakar, an Android developer and UI/UX designer. I build , user-friendly apps that solve real problems. I focus on creating smooth, efficient solutions that enhance everyday experiences.
 
 
 ## 🔸 What I do
 
-- 🎨 Design user-centric interfaces
-- 📱 Develop Android applications
-- 🔍 Conduct user research and usability testing
-- 🛠️ Prototype and iterate on designs
+-  Design user-centric interfaces
+-  Develop Android applications
+-  User research and usability testing
+-  Prototype and iterate on designs
 
 ## 🔸 Skills & Tools
 
