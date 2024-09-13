@@ -1,6 +1,6 @@
 <p align="start">
   <img src="https://komarev.com/ghpvc/?username=Bharath-Dhakar&label=Profile%20views&color=6026B9&style=flat" alt="Profile views" />
-  <a href="https://github.com/yourusername?tab=followers">
+  <a href="https://github.com/?Bharath-Dhakartab=followers">
     <img src="https://img.shields.io/github/followers/Bharath-Dhakar?label=Followers&style=social" alt="GitHub followers">
   </a>
 </p>
@@ -74,11 +74,15 @@
 ## 🔸 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourusername" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://linkedin.com/in/Bhanu-pratap-dhakar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://dribbble.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/-Dribbble-%23EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" target="_blank"></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:mikiscode@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://behance.net/yourusername" target="_blank"><img src="https://img.shields.io/badge/-Behance-%231769FF?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/Bharath-Dhakar" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </p>
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Animated footer" />
