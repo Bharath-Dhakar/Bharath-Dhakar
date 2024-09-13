@@ -8,10 +8,8 @@
 ## 🔸 Welcome to my corner!
 
 <div align="start">
-  <img src="https://readme-typing-svg.herokuapp.com? 
-  font=Fira+Code&size=28&pause=1000&color=ff7700&Start=true&vStart=true&width=700&lines=UI%2FUX+Designer+%7C+Android+App+Developer;Merging+Creativity+with+Functionality;" alt="Typing SVG" />
- </div>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF7700&width=700&lines=UI%2FUX+Designer+%7C+Android+App+Developer;Merging+Creativity+with+Functionality" alt="Typing SVG" />
+</div>
 
 
 ## 🔸 About Me
@@ -68,8 +66,10 @@
 ## 🔸 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=dracula&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Bharath-Dhakar&theme=onestar&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
+
+
 
 ## 🔸 Let's Connect!
 
