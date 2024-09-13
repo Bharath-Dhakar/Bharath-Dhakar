@@ -79,7 +79,7 @@
   <a href="https://dribbble.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/-Dribbble-%23EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" target="_blank"></a>
   <a href="mailto:mikiscode@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://behance.net/yourusername" target="_blank"><img src="https://img.shields.io/badge/-Behance-%231769FF?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
+  <a href="https://www.behance.net/bharath-dhakar" target="_blank"><img src="https://img.shields.io/badge/-Behance-%231769FF?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
   <a href="https://github.com/Bharath-Dhakar" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </p>
 
