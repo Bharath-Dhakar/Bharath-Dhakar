@@ -5,10 +5,14 @@
   </a>
 </p>
 
-## 🔸 Welcome to my corner!
-
 <div align="start">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF7700&width=700&lines=UI%2FUX+Designer+%7C+Android+App+Developer;Merging+Creativity+with+Functionality" alt="Typing SVG" />
+</div>
+
+## 🔸 Welcome to my corner!
+
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGcwZWN5enJ6bWthYXU5aGRpang0aWRncjh1YXlpdXk5ejc2Znh2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Bzzb92NKwUOj0FjQOd/giphy.gif" alt="Aesthetic Banner GIF" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
 </div>
 
 
