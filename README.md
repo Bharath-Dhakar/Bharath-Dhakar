@@ -18,7 +18,7 @@
 
 ## 🔸 About Me
 
-- Hi, I’m Bharath Dhakar, an Android developer and UI/UX designer. I build , user-friendly apps that solve real problems. I focus on creating smooth, efficient solutions that enhance everyday experiences.
+- Hi, I’m Bharath Dhakar, an Android App developer and UI/UX designer. I build , user-friendly apps that solve real problems. I focus on creating smooth, efficient solutions that enhance everyday experiences.
 
 
 ## 🔸 What I do
