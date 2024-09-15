@@ -79,8 +79,8 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/Bhanu-pratap-dhakar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href=" https://x.com/BhanuDhakar63?t=NbAHkmdGR-oREu7l2f0OgA&s=08 " target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://dribbble.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/-Dribbble-%23EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" target="_blank"></a>
+  <a href=" https://x.com/BhanuDhakar63" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://dribbble.com/mikiscode target="_blank"><img src="https://img.shields.io/badge/-Dribbble-%23EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" target="_blank"></a>
   <a href="mailto:mikiscode@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/bharath_dhakar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.behance.net/bharath-dhakar" target="_blank"><img src="https://img.shields.io/badge/-Behance-%231769FF?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
