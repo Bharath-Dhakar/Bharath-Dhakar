@@ -43,16 +43,14 @@
 
 ## 🔸 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="project1" />
+<div align="left">
+  <a href="https://github.com/Bharath-Dhakar/calculator">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bharath-Dhakar&repo=calculator&theme=react&bg_color=1F222E&title_color=FF7700&icon_color=F8D866&hide_border=true&show_icons=false" alt="project1" />
   </a>
-  <a href="https://github.com/yourusername/project2">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="project2" />
-  </a>
+ 
 </div>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/Bharath-Dhakar?tab=repositories">
     <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
   </a>
