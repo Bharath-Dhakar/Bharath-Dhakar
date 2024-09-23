@@ -30,7 +30,7 @@
 
 ## 🔸 Skills & Tools
 
-<p align="start">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40" style="margin: 0 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40" style="margin: 0 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40" style="margin: 0 10px;"/>
@@ -43,7 +43,7 @@
 
 ## 🔸 Featured Projects
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/Bharath-Dhakar/calculator">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bharath-Dhakar&repo=calculator&theme=react&bg_color=1F222E&title_color=FF7700&icon_color=F8D866&hide_border=true&show_icons=false" alt="project1" />
   </a>
