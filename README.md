@@ -43,6 +43,7 @@
 
 ## 🔸 Featured Projects
 
+
 <div align="center">
   <a href="https://github.com/Bharath-Dhakar/calculator">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bharath-Dhakar&repo=calculator&theme=react&bg_color=1F222E&title_color=FF7700&icon_color=F8D866&hide_border=true&show_icons=false" alt="project1" />
@@ -50,7 +51,14 @@
  
 </div>
 
-<p align="left">
+<div align="center">
+  <a href="https://github.com/Bharath-Dhakar/todoApp">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bharath-Dhakar&repo=todoApp&theme=react&bg_color=1F222E&title_color=FF7700&icon_color=F8D866&hide_border=true&show_icons=false" alt="project2" />
+  </a>
+ 
+</div>
+
+<p align="center">
   <a href="https://github.com/Bharath-Dhakar?tab=repositories">
     <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
   </a>
