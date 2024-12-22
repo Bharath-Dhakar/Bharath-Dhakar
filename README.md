@@ -52,10 +52,16 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/Bharath-Dhakar/todoApp">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bharath-Dhakar&repo=todoApp&theme=react&bg_color=1F222E&title_color=FF7700&icon_color=F8D866&hide_border=true&show_icons=false" alt="project2" />
+  <a href="https://github.com/Bharath-Dhakar/Utility-App">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bharath-Dhakar&repo=Utility-App&theme=react&bg_color=1F222E&title_color=FF7700&icon_color=F8D866&hide_border=true&show_icons=false" alt="project2" />
   </a>
  
+</div>
+
+<div align="center">
+  <a href="https://github.com/Bharath-Dhakar/WeatherApp">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bharath-Dhakar&repo=WeatherApp&theme=react&bg_color=1F222E&title_color=FF7700&icon_color=F8D866&hide_border=true&show_icons=false" alt="project2" />
+  </a> 
 </div>
 
 <p align="center">
